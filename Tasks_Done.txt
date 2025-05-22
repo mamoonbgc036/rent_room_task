@@ -1,0 +1,138 @@
+1. mail to enable ssh access.
+2. setup rent and room uk db.
+setup rent and room bd db.
+3. fixed payment schedule.
+4. Check email send
+
+08.05.2025
+2. set up codebase of rent and room bd
+5. configur frontend hero section, header and footer of bd
+6. configur git for rent and room bd
+6. create property(district and thana db import)
+
+10.05.2025
+1. give a nice look to property page.
+2. cross match foreign id for property, thana and district.
+3. property data validation.
+4. Store property
+6. clean up code.
+
+11.05.2025
+1. Landing page hero image path correct for both dashboard and frontend
+
+
+12.05.2025
+2. test site setting sub menus form.
+2. Footer 2(General error: 1364 Field 'footer_id' doesn't have a default value) issue fixed
+3. configure git for rent and root bd.
+4. deploy to live from git.
+5. Design search in landing page
+
+
+13.05.2025
+1.search in landing page logic done.
+
+14.05.2025
+2. test other functionalities
+3. remove top navbar search bar.
+correct image file path
+login with facebook done
+
+15.05.2025
+1. pdf contact edit.
+redesign signup page.
+2. sign up with only phone and password.
+
+16.06.25 => friday
+
+17.05.25
+1.sign up with only phone and password done
+2. redesign login page and logic to address 1
+3. filter by accomodation type 
+4. add Property type input field in property create form
+5. add default image in landing page where user not add image when creating package
+
+18.05.2025
+1.Hero image not load at landing page solved
+2.ssl enabled
+3.facebook login in live
+4. setup ghorer menu in my local
+
+19.05.2025
+1. ghorer menu deployment test
+2. change triple-taste to ghorer menu
+
+20.05.2025
+3. search online city corporation area
+4. create database for city and area(branch creation)
+5. create branch with city and thana
+6. Add order now button at bottom of each branch card
+
+21.05.2025
+1. hide entire hero div when type city or area in landing page search bar
+2. exclude country_id filter from all pages
+3. add not found gif in landing page
+
+22.05.2025
+1. exclude dashboard menu from dashboard
+2. guest => customer sign
+3. partner => home sign
+4. area create page error fixed
+
+
+
+
+
+
+
+
+
+
+
+
+
+IN THE TIME OF HANDOVER, DEFECT FOUND
+1.After partner login, he can access http://127.0.0.1:8000/admin/users/manage(all users including super admin)
+2. there is no option to show privacy data in frontend
+3. There is no option to show term and condition in frontend.
+4. same as above for partner term and condition
+5. when select area, country id not found
+6. package edit issues.
+
+
+package images not showing in landing page
+profile edit issue
+local area crud
+
+1946273759533809
+
+
+guest policy
+
+host policy
+
+company term and conditions
+
+left => select accomodation, 
+right => local area
+
+1. vegetable and spicy => launch, brakfast and dinner with time
+2. lang and long => city and area
+3. admin and subadmin => food supplier.
+4. menu sub item option.
+5. Delivery Instructions => extra note
+6. branch/food supplier authorization(to see)
+7. name changed to ghorer menu
+
+
+after search redirect button with 10 packages
+
+area crud
+
+
+
+rent and room
+exclude dashboard
+keep signin by default
+
+সটিক বাসস্থান সোদের মদদে
